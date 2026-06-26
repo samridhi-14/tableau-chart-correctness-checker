@@ -53,4 +53,4 @@ Due to file size, the dataset is not stored directly in this repository.
 
 ## Author
 
-Samridhi Pnadey — Data Science, AI and Digital Business, Gisma University of Applied Sciences
+Samridhi Pandey — Data Science, AI and Digital Business, Gisma University of Applied Sciences
